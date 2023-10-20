@@ -15,4 +15,4 @@ let gameCounter = 100
 // gameCounter++
 // ++gameCounter
 console.log(gameCounter);
-
+console.log("2" === 3); // strict check
